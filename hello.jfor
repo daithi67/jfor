@@ -1,5 +1,5 @@
 # hello.jfor
-# Classic Hello World in the Johnson-style FOR DSL
+# Hello World FOR DSL
 
 for i = 1 to 3 do
     print "Hello World!"
