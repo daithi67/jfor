@@ -1,0 +1,7 @@
+# hello_list.jfor
+# Looping through a list of greetings
+
+for word in ["Hello", "Bonjour", "Hola", "Ciao"] do
+    print word + " World!"
+end
+
