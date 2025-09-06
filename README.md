@@ -59,6 +59,11 @@ python jfor.py myprog.jfor
 
 _Not production-grade — just a fun learning project in parsing and interpreters._
 
+## Examples
+
+- [`hello.jfor`](hello.jfor) – prints “Hello World!” three times  
+- [`hello_list.jfor`](hello_list.jfor) – iterates over a list of greetings
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
