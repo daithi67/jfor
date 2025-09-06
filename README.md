@@ -1,6 +1,6 @@
 # jfor
 
-A tiny interpreter for a **Johnson-style FOR loop DSL**, written in Python. This is just a hobby project I created, after reading about Steve Johnson’s flexible `for` loop ideas from Bell Labs, built as a toy language.
+A tiny interpreter for a **FOR loop DSL**, written in Python. This is just a hobby project I created, after reading about Stephen Johnson’s semi-colon`for` loop ideas from Bell Labs, built as a toy language.
 
 ## Features
 
